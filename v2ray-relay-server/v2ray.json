@@ -20,7 +20,7 @@
       "port": 8000,
       "protocol": "shadowsocks",
       "settings": {
-        "password": "<RELAY-PASSWORD>",
+        "password": "Fr33dom",
         "method": "chacha20-ietf-poly1305",
         "network": "tcp,udp"
       }
